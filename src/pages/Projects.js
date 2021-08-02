@@ -6,7 +6,6 @@ import Jumbotron from "react-bootstrap/Jumbotron";
 import Project2 from "../images/projects/scheduler.jpg";
 import Project3 from "../images/projects/passwordgenerator.jpg";
 import Project4 from "../images/projects/notetaker.JPG";
-import Project6 from "../images/projects/budgettracker.jpg";
 import Image from "react-bootstrap/Image";
 import Button from "react-bootstrap/Button";
 import "./style.css";
